@@ -1,0 +1,21 @@
+{
+  "referenceYear": "2015",
+  "publicationDate": "2015-06-30",
+  "source": "http://www.territorio.regione.lombardia.it/shared/ccurl/482/174/da%20pubblicare%202016%20exportGraduatoriaPdf30_06_2016.pdf",
+  "legalNotice": "ai sensi dell'art. 44 bis del decreto - legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214",
+  "datasetPath": "raw-dataset.csv",
+  "legenda": {
+    "stato di esecuzione": {
+      "art. 1 c. 2 lett. a) DM 42/2013": "I lavori di realizzazione, avviati, risultano interrotti oltre il termine contrattualmente previsto per l'ultimazione",
+      "art. 1 c. 2 lett. a) DM 42/2013": "I lavori di realizzazione, avviati, risultano interrotti oltre il termine contrattualmente previsto per l'ultimazione",
+      "art. 1 c. 2 lett. b) DM 42/2013": "I lavori di realizzazione, avviati, risultano interrotti entro il termine contrattualmente previsto per l'ultimazione, non sussistendo, allo stato, le condizioni di riavvio degli stessi"
+    },
+    "cause incompletezza dell'opera": {
+      "art. 1 c. 1 lett. a) D.M. 42/2013": "Mancanza di fondi",
+      "art. 1 c. 1 lett. b) D.M. 42/2013": "Cause tecniche",
+      "art. 1 c. 1 lett. c) D.M. 42/2013": "sopravvenute nuove norme tecniche o disposizioni di legge",
+      "art. 1 c. 1 lett. d) D.M. 42/2013": "Fallimento, liquidazione coatta e concordato preventivo dell'impresa appaltatrice, risoluzione del contratto ai sensi degli articoli 135 e 136 del decreto legislativo 12 aprile 2006, n. 163, o di recesso dal contratto ai sensi delle vigenti disposizioni in materia di antimafia",
+      "art. 1 c. 1 lett. e) D.M. 42/2013": "Mancato interesse al completamento da parte della stazione appaltante, dell'ente aggiudicatore o di altro soggetto aggiudicatore, di cui all’articolo 3 del decreto legislativo 12 aprile"
+    }
+  }
+}
